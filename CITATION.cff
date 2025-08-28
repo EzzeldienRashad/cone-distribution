@@ -1,7 +1,7 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Hasan
+  - family-names: Aboelsood
     given-names: Ezzeldien
     orcid: https://orcid.org/1234-5678-9101-1121
 title: "Cone Distribution Effect on Information"
